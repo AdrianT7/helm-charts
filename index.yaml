@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  gh-runner-chart:
+  - apiVersion: v2
+    appVersion: 1.4.0
+    created: "2025-09-14T17:44:21.456522679+02:00"
+    description: A Helm chart for deployment of gh-runner
+    digest: 27817459a551b2836e8941096964c241e4e28c826b74588dcde1e0497fa71d40
+    name: gh-runner-chart
+    urls:
+    - gh-runner-chart/gh-runner-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-09-14T17:44:21.456062462+02:00"
