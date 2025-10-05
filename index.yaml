@@ -3,21 +3,21 @@ entries:
   gh-runner:
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2025-10-01T22:51:11.550974602+02:00"
+    created: "2025-10-05T21:28:05.830630185+02:00"
     description: A Helm chart for deployment of gh-runner
     digest: 83798feb312090ced1c162046506d90170d7be5b2c628b2605f1d47f821f4caf
     name: gh-runner
     urls:
-    - gh-runner-0.2.0.tgz
+    - gh-runner-chart/gh-runner-0.2.0.tgz
     version: 0.2.0
   gh-runner-chart:
   - apiVersion: v2
     appVersion: 1.4.0
-    created: "2025-10-01T22:51:11.551462072+02:00"
+    created: "2025-10-05T21:28:05.831220518+02:00"
     description: A Helm chart for deployment of gh-runner
     digest: 27817459a551b2836e8941096964c241e4e28c826b74588dcde1e0497fa71d40
     name: gh-runner-chart
     urls:
-    - gh-runner-chart-0.1.0.tgz
+    - gh-runner-chart/gh-runner-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2025-10-01T22:51:11.550529047+02:00"
+generated: "2025-10-05T21:28:05.829969883+02:00"
